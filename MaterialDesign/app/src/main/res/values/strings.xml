@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Material Design</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">next</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="error_timeout">Connection Not Found</string>
+    <string name="error_auth_failure">Authorization Failure</string>
+    <string name="error_server">Unable to connect with the server</string>
+    <string name="error_network">Network not found</string>
+    <string name="error_parse">Parsing Not Established</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_professional">ProfessionalActivity</string>
+    <string name="title_activity_professional_detail">ProfessionalDetailActivity</string>
+
+</resources>
